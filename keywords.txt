@@ -1,0 +1,55 @@
+#######################################
+# Syntax Coloring Map For I2CsapmR1
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+I2CsapmR1	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+I2CsapmR1_A0	LITERAL1
+I2CsapmR1_A1	LITERAL1
+I2CsapmR1_A2	LITERAL1
+I2CsapmR1_A3	LITERAL1
+I2CsapmR1_A6	LITERAL1
+I2CsapmR1_A7	LITERAL1
+I2CsapmR1_D2	LITERAL1
+I2CsapmR1_D3	LITERAL1
+I2CsapmR1_D4	LITERAL1
+I2CsapmR1_D5	LITERAL1
+I2CsapmR1_D6	LITERAL1
+I2CsapmR1_D7	LITERAL1
+I2CsapmR1_D8	LITERAL1
+I2CsapmR1_D9	LITERAL1
+I2CsapmR1_D10	LITERAL1
+I2CsapmR1_D11	LITERAL1
+I2CsapmR1_D12	LITERAL1
+I2CsapmR1_D13	LITERAL1
+I2CsapmR1_M2	LITERAL1
+I2CsapmR1_M3	LITERAL1
+I2CsapmR1_M4	LITERAL1
+I2CsapmR1_M5	LITERAL1
+I2CsapmR1_M6	LITERAL1
+I2CsapmR1_M7	LITERAL1
+I2CsapmR1_M8	LITERAL1
+I2CsapmR1_M9	LITERAL1
+I2CsapmR1_M10	LITERAL1
+I2CsapmR1_M11	LITERAL1
+I2CsapmR1_M12	LITERAL1
+I2CsapmR1_M13	LITERAL1
+
+
+
