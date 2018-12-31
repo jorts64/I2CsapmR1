@@ -1,8 +1,8 @@
 //
 //    FILE: I2CsapmR1.H
 //  AUTHOR: Jordi Orts
-//    DATE: 30-12-2018
-// VERSION: 0.2.0
+//    DATE: 31-12-2018
+// VERSION: 1.0.0
 // PURPOSE: I2C slave arduino pro micro
 //     URL: http://github.com/jorts64/I2CsapmR1
 //
