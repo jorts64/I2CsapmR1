@@ -7,7 +7,7 @@ void setup() {
    Serial.begin(9600);
    SAPM.begin();
    SAPM.write(I2CsapmR1_M2,OUTPUT);
-   SAPM.write(I2CsapmR1_M3,INPUT);
+   SAPM.write(I2CsapmR1_M3,INPUT_PULLUP);
 }
 
 void loop() {
